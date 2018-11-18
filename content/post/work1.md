@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/rick1.gif"
+image = "/img/portfolio/rick1.gif"
 date = "2016-11-05T18:25:22+05:30"
 title = "Rick on his branch"
 writer = "Joey"
