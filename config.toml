@@ -1,4 +1,4 @@
-baseurl = "https://rickthelizard.com/"
+baseurl = ""
 title = "Rick the Lizard"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"
